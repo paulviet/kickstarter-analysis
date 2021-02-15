@@ -2,11 +2,9 @@
 Performing analysis on Kickstarter data to uncover trends Based on Theater Category with SubCategories in Plays and Musicals using Excel PivotTables and Charts/Boxes to display data
 
 # Worksheets
-Edinburgh Research
-Data Worksheet 
+Edinburgh Research - Data Worksheet with selected Plays' values  
 
-Descriptive Statistics
-based on 
+Descriptive Statistics - stats based on 
 1. Successful US Kickstarters
 2. Failed US Kickstarters
 
