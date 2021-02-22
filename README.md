@@ -29,11 +29,11 @@ Reviewing the first 5 years of Theater Kickstarter (2009-2013) netted only 26 fu
 
 ![Theater_Outcomes_vs_Launch_2009-2013](resources/Theater_Outcomes_vs_Launch_2009-2013.png)
 
-However, We can note that fundraising is highest around April and drops down by August before rising again around November.
+However, we can note that fundraising is highest around April and drops down by August before rising again around November.
 
-Looking at data alone for 2014 shows a wide Standard Deviation  of 64.9, which doesn't give us data that is close enough to have a good idea on our fundraising potential. However we can note the trend that in this year vs. Prior Years, the fundraising campaigns started to have a large increase after April and slowly tapered off after July with an end of year peak that went up in October.
+Looking at data alone for 2014 shows a wide Standard Deviation of 64.9, which doesn't give us data that is close enough to have a good idea on our fundraising potential. We can note the trend that in this year vs. Prior Years, the fundraising campaigns started to have a large increase after April and slowly tapered off after July with an end of year peak that went up in October.
 
-| 2014 Kickstarter           | Successful | Failed | cancelled | Successful dollar goal | Successful dollar pledge | difference |
+| 2014 Kickstarter           | Successful | Failed | Cancelled | Successful dollar goal | Successful dollar pledge | Difference |
 | -------------------------- | ---------- | ------ | --------- | ---------------------- | ------------------------ | ---------- |
 | Mean Goal                  | 48.2       | 30.4   | 3.3       | 6816.72                | 7769.24                  | 114%       |
 | Median Goal                | 32.0       | 17.5   | 2.0       | 5637.75                | 6395.83                  | 113%       |
@@ -44,9 +44,9 @@ Looking at data alone for 2014 shows a wide Standard Deviation  of 64.9, which d
 
 ![Theater_Outcomes_vs_Launch_2014](resources/Theater_Outcomes_vs_Launch_2014.png)
 
-Looking a the data where the sample size is much larger (than 26) from 2014 to 2016 and on gets numbers that are closer in line with the Mean and Median columns for each case.
+Looking at the data where the sample size is much larger (than 26) from 2014 to 2016 and on gets numbers that are closer in line with the Mean and Median columns for each case.
 
-| 2014-2017 Kickstarter      | Successful | Failed  | cancelled | Successful dollar goal | Successful dollar pledge | difference |
+| 2014-2017 Kickstarter      | Successful | Failed  | Cancelled | Successful dollar goal | Successful dollar pledge | Difference |
 | -------------------------- | ---------- | ------- | --------- | ---------------------- | ------------------------ | ---------- |
 | Mean Goal                  | 70.9       | 41.6    | 3.4       | 5596.62                | 6383.64                  | 114%       |
 | Median Goal                | 65.0       | 40.0    | 3.0       | 4934.44                | 5414.00                  | 110%       |
@@ -55,7 +55,7 @@ Looking a the data where the sample size is much larger (than 26) from 2014 to 2
 | Lower Quartile of Goal     | 55.0       | 33.0    | 2.8       | 3764.90                | 4467.52                  | 119%       |
 | IQR of Goal                | 29.0       | 17.0    | 1.3       | 4076.76                | 4027.83                  | 99%        |
 
-| 2015-2017 Kickstarter      | Successful | Failed  | cancelled | Successful dollar goal | Successful dollar pledge | difference |
+| 2015-2017 Kickstarter      | Successful | Failed  | Cancelled | Successful dollar goal | Successful dollar pledge | Difference |
 | -------------------------- | ---------- | ------- | --------- | ---------------------- | ------------------------ | ---------- |
 | Mean Goal                  | 50.7       | 29.6    | 3.3       | 5234.63                | 5893.11                  | 113%       |
 | Median Goal                | 54.0       | 33.0    | 3.0       | 4279.15                | 4752.46                  | 111%       |
@@ -64,7 +64,7 @@ Looking a the data where the sample size is much larger (than 26) from 2014 to 2
 | Lower Quartile of Goal     | 35.0       | 22.0    | 2.0       | 3541.04                | 4099.93                  | 116%       |
 | IQR of Goal                | 27.0       | 13.0    | 1.8       | 3584.26                | 3531.85                  | 99%        |
 
-However it should also be noted that 2014 data along had a much higher dollar goal and pledge, but looking at the standard deviation with 2014-2017 as 18.5 vs 2015-2017 of 14.6 and the failed Kickstarter at about 7, but then looking at the charts below,
+However, it should also be noted that 2014 data along had a much higher dollar goal and pledge, but looking at the standard deviation with 2014-2017 as 18.5 vs 2015-2017 of 14.6 and the failed Kickstarter at about 7, but then looking at the charts below,
 
 ![Theater_Outcomes_vs_Launch_2014-2017](resources/Theater_Outcomes_vs_Launch_2014-2017.png)
 
@@ -72,7 +72,7 @@ However it should also be noted that 2014 data along had a much higher dollar go
 
 The data does tell us that taking if Louise can budget her play in the range +- $1,977.88 of median $5,596.62 with the fundraiser conducted in May, she should have the best chances of a successful fundraiser.
 
-If we account for the entire history of data we have for Kickstarter below:
+If we account for the entire sample data history we have for Kickstarter below:
 
 ![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
@@ -127,5 +127,5 @@ Some challenges encountered were running statistics with Pivotcharts, Anytime I 
 
 - What are some other possible tables and/or graphs that we could create?
 
-  some possible tables and graphs to create are Length of Kickstarter campaigns against donor counts and amounts, Dollar vs Euro Kickstarter (as well As French vs American production), Staff Picks or spotlight (True) and their resulting Outcomes. Category vs. Successfule fundraises and Total Funding.
+  some possible tables and graphs to create are Length of Kickstarter campaigns against donor counts and amounts, Dollar vs Euro Kickstarter (as well As French vs American production), Staff Picks or spotlight (True) and their resulting Outcomes. Category vs. Successful fundraises and Total Funding.
 
