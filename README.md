@@ -70,13 +70,15 @@ However, it should also be noted that 2014 data along had a much higher dollar g
 
 ![Theater_Outcomes_vs_Launch_2015-2017](resources/Theater_Outcomes_vs_Launch_2015-2017.png)
 
-The data does tell us that taking if Louise can budget her play in the range +- $1,977.88 of median $5,596.62 with the fundraiser conducted in May, she should have the best chances of a successful fundraiser.
+The data does tell us that taking if Louise can budget her play in the range +- $1,977.88 of median $5,596.62 with the fundraiser conducted in April, she should have the best chances of a successful fundraiser.
+
+##### Accounting for Every Year of Data supplied in our Test
 
 If we account for the entire sample data history we have for Kickstarter below:
 
 ![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
-We still feel her best month for fundraising is STILL May.
+We still feel her best month for fundraising is STILL April to begin Fundraising. However we feel that based on the downwards slope of the cart and the cancellation records from years 2015-2017, She would have approximately 30 days to try to raise the required Funds for the Kickstarter.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -107,7 +109,7 @@ It can be noted further through this chart, if Louse is ambitious enough to writ
 
 ### Challenges and Difficulties Encountered
 
-Some challenges encountered were running statistics with Pivotcharts, Anytime I added a new piece of data to the pivot chart, I had to relink the fields properly to get the statistic data quickly. I also found that working with Days were pretty hard, it would have required me to do an additional spreadsheet to find out statistics like how long should a Kickstarter run to be the most successful at a particular dollar amount. coding with COUNTIFS for just 12 fields was time consuming, I had thought about doing it for the day duration of the Kickstarter campaign and it turns out the campaign in our data set ranges from 1 to 90 days!
+Some challenges encountered were running statistics with Pivot charts, Anytime I added a new piece of data to the pivot chart, I had to relink the fields properly to get the statistic data quickly. I also found that working with Days were pretty hard, it would have required me to do an additional spreadsheet to find out statistics like how long should a Kickstarter run to be the most successful at a particular dollar amount. coding with COUNTIFS for just 12 fields was time consuming, I had thought about doing it for the day duration of the Kickstarter campaign and it turns out the campaign in our data set ranges from 1 to 90 days!
 
 ## Results
 
@@ -127,5 +129,6 @@ Some challenges encountered were running statistics with Pivotcharts, Anytime I 
 
 - What are some other possible tables and/or graphs that we could create?
 
-  some possible tables and graphs to create are Length of Kickstarter campaigns against donor counts and amounts, Dollar vs Euro Kickstarter (as well As French vs American production), Staff Picks or spotlight (True) and their resulting Outcomes. Category vs. Successful fundraises and Total Funding.
-
+  Some possible tables and graphs to create are: Length of Kickstarter campaigns against donor counts and amounts, Dollar vs Euro Kickstarter (as well as French vs American productions monies raised), Staff Picks/Spotlight (True) and their resulting Outcomes (where they picking the best ones personally or could we measure some promotion going on, like a consistent distribution of categories vs a staff favorite category), and the most successful categories for funding.
+  
+  
