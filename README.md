@@ -109,7 +109,7 @@ It can be noted further through this chart, if Louse is ambitious enough to writ
 
 ### Challenges and Difficulties Encountered
 
-Some challenges encountered were running statistics with Pivot charts, Anytime I added a new piece of data to the pivot chart, I had to relink the fields properly to get the statistic data quickly. I also found that working with Days were pretty hard, it would have required me to do an additional spreadsheet to find out statistics like how long should a Kickstarter run to be the most successful at a particular dollar amount. coding with COUNTIFS for just 12 fields was time consuming, I had thought about doing it for the day duration of the Kickstarter campaign and it turns out the campaign in our data set ranges from 1 to 90 days!
+Some challenges encountered were running statistics with Pivot charts, Anytime I added a new piece of data to the pivot chart, I had to relink the fields properly to get the statistic data quickly. I also found that working with Days were pretty hard, it would have required me to do an additional spreadsheet to find out statistics like how long should a Kickstarter run to be the most successful at a particular dollar amount. coding with COUNTIFS for just 12 fields was time consuming, I had thought about doing it for the day duration of the Kickstarter campaign and it turns out the campaign in our data set ranges from 1 to 90 days! But even with a 12 COUNTIF's to build the Outcomes Based on Goals table, a dollar amount spread of $5,000 for each X axis is much too large to accurately pick an amount within a few hundred dollars for funding.
 
 ## Results
 
