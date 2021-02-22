@@ -78,7 +78,7 @@ If we account for the entire sample data history we have for Kickstarter below:
 
 ![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
-We still feel her best month for fundraising is STILL April to begin Fundraising. However we feel that based on the downwards slope of the cart and the cancellation records from years 2015-2017, She would have approximately 30 days to try to raise the required Funds for the Kickstarter.
+We still feel her best month for fundraising is STILL April to begin Fundraising. However we feel that based on the downwards slope of the cart and the cancellation records from years 2015-2017, She would have less than 60 days to try to raise the required Funds for the Kickstarter.
 
 ### Analysis of Outcomes Based on Goals
 
